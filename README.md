@@ -70,13 +70,13 @@ To create a Power BI dashboard that provides actionable insights into sales perf
 |YTD Qty Sold     | 107.2k   | -7.29%   |
 |YTD Profit Margin| 11.58%   | 5.37%    |
 
-    📌 Although profit margin has improved, overall sales volume has declined, requiring an urgent review of pricing and product strategies
+    📌 Recommendation: Although profit margin has improved, overall sales volume has declined, requiring an urgent review of pricing and product strategies
 
 **ii. Sales by Customer Category**
 
 ![Screen Shot 2025-02-07 at 1 13 11 PM](https://github.com/user-attachments/assets/db72f6e0-b07a-4d92-87e4-1589915070c0)
 
-    📌 Office supplies saw a decline, while furniture sales showed slight growth, suggesting a shift in demand. Targeted promotions could drive sales.
+    📌 Recommendation: Office supplies saw a decline, while furniture sales showed slight growth, suggesting a shift in demand. Targeted promotions could drive sales.
 
 **iii. Regional Performance**
 
@@ -112,9 +112,9 @@ The analysis reveals a mixed performance across different business areas. While 
 
 These insights underscore the need for strategic improvements in product offerings, regional marketing, and logistics optimization to drive revenue growth and customer satisfaction.
 
-**5. RECOMMENDATIONS**
+**5. CONCLUSION AND RECOMMENDATIONS**
 
-* Expand marketing efforts in the Central region to improve underperformance.
+* Expand marketing efforts in the South region to improve underperformance.
 
 * Optimize product pricing to address declining sales trends.
 
